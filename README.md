@@ -18,10 +18,7 @@
 <div align="center">
 
 # Hi, I'm Vivek Reddy 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI%20Engineer;Generative%20AI%20%7C%20LLM%20Engineer;Building%20Retrieval-Augmented%20Generation%20Systems;LangChain%20%2B%20LangGraph%20%2B%20Vector%20Databases;Shipping%20Production-Grade%20AI%20Applications" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+;LLM+Engineer+;Building+(RAG)+Systems;+LangChain+%E2%80%A2+LangGraph+;VECTOR+DB'S+FASTAPI)](https://git.io/typing-svg)
 <br/>
 
 Python-first engineer building **agentic AI systems, RAG pipelines, and LLM-powered applications** — from vector retrieval to Dockerized, CI/CD-deployed production APIs.
