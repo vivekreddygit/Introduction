@@ -20,7 +20,7 @@
 # Hi, I'm Vivek Reddy 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Generative+AI+%7C+LLM+Engineer; Building+Retrieval-Augmented+Generation+Systems;LangChain+%2B+LangGraph+%2B+Vector+Databases;Shipping+Production-Grade+AI+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Generative+AI+%7C+LLM+Engineer;Building+Retrieval-Augmented+Generation+Systems;LangChain+%2B+LangGraph+%2B+Vector+Databases;Shipping+Production-Grade+AI+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
